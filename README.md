@@ -1,10 +1,3 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Always+Learning+%26+Growing+%F0%9F%8C�;Coding+step+by+step+%F0%9F%9A%80;Open+to+new+challenges+%F0%9F%92%AA)](https://git.io/typing-svg)
-
-</div>
-
----
 
 ## 🧑‍💻 About Me
 
@@ -14,29 +7,33 @@
 
 ---
 
-<div align="center">
+## 🛠️ Skills
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Always+Learning+%26+Growing+%F0%9F%8C�;Coding+step+by+step+%F0%9F%9A%80;Open+to+new+challenges+%F0%9F%92%AA)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🛠️ Skills in Progress
-
-<div align="left">
+<br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/STUDYING-3b82f6?style=for-the-badge)
+
+![50%](https://progress-bar.dev/50/?title=&width=380&color=E34F26)
+
+<br>
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/STUDYING-3b82f6?style=for-the-badge)
+
+![50%](https://progress-bar.dev/50/?title=&width=380&color=1572B6)
+
+<br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/STUDYING-3b82f6?style=for-the-badge)
+
+![50%](https://progress-bar.dev/50/?title=&width=380&color=F7DF1E)
+
+<br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/STUDYING-3b82f6?style=for-the-badge)
+
+![50%](https://progress-bar.dev/50/?title=&width=380&color=ED8B00)
+
+<br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/IN%20PROGRESS-eab308?style=for-the-badge)
@@ -44,20 +41,28 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/IN%20PROGRESS-eab308?style=for-the-badge)
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0d1117)](https://github.com/SEU_USUARIO)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0d1117)](https://github.com/SEU_USUARIO)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
+
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00FF41&style=flat-square&label=Profile+Views" />
-</div>
 
 ## 🔗 Connect with Me
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-schwarz-baptista/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lucasbaptista._/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-schwarz-baptista/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasbaptista._/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasbaptista2106@gmail.com)
 
 </div>
