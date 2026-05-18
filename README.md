@@ -8,9 +8,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently studying **SEU CURSO** at **SUA FACULDADE**
-- 💼 Working as **SEU CARGO** at **SUA EMPRESA** — since **MM/AAAA**
-- 🌱 Exploring paths and building experience step by step
+- 🎓 Currently studying **Sistemas de Informação** at **Unifebe**
+- 🌱 Exploring paths and building experience
 - 📍 Brusque, Santa Catarina, Brazil
 
 ---
@@ -31,41 +30,14 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/IN%20PROGRESS-ef4444?style=for-the-badge)
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0d1117)](https://github.com/SEU_USUARIO)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0d1117)](https://github.com/SEU_USUARIO)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 🔗 Connect with Me
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-schwarz-baptista/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lucasbaptista._/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasbaptista2106@gmail.com)
 
 </div>
 
